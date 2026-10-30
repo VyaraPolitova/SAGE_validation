@@ -1,0 +1,14 @@
+.Rproj.user/
+.Rhistory
+.RData
+.Ruserdata
+*.docx
+*.doc
+*.xlsx
+*.csv
+*.pdf
+.Rproj.user/
+Removed_parts.R
+Checks.R
+Regression2.R
+Removed_parts.R
