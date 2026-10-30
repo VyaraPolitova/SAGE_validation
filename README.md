@@ -41,6 +41,10 @@ install.packages(c("tidyverse", "janitor", "gtsummary", "gt", "psych", "moments"
                    "MVN", "MASS"))
 ```
 
+## How to run
+
+Open `Thesis.Rproj` in RStudio, then run any script on its own. Each one loads the packages it needs.
+
 ## License
 
 The code is released under the MIT License. See the `LICENSE` file.
@@ -52,7 +56,3 @@ If you use this code, please cite:
 Politova, V. (2026). *Adapting Self-Administered Gerocognitive Examination
 (SAGE) for use as a screening tool for cognitive impairment
 and dementia within Bulgarian context.* [Bachelor's thesis, New Bulgarian University].
-
-## How to run
-
-Open `Thesis.Rproj` in RStudio, then run any script on its own. Each one loads the packages it needs.
